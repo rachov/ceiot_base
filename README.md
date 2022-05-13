@@ -2,7 +2,7 @@
 
 Código para ejemplo básico de IoT
 
-Test de cambio local
+A ver ahora...
 
 ![](./img/arch.png)
 
